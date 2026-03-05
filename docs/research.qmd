@@ -1,0 +1,45 @@
+---
+title: "Research"
+---
+
+My research agenda examines the intersection of digital technology and democratic discourse. Using computational methods and experimental designs, I investigate how algorithms and platform governance shape what citizens see, believe, and tolerate online.
+
+------------------------------------------------------------------------
+
+### I. Algorithmic Gatekeeping & Inequality
+
+**Do search and recommendation algorithms amplify structural discrimination?**
+
+-   **Influence of Hate Speech About Refugees in Search Algorithms on Political Attitudes** (2024) *New Media & Society* \| [Journal](https://journals.sagepub.com/doi/full/10.1177/14614448241244735) \| [PDF](Pradel_2024_Influence-of-hate-speech-about-refugees.pdf) \> This paper provides causal evidence that search engine autocompletions can amplify hostility toward refugees. Crucially, it identifies a "polarization effect": the negative impact is driven almost entirely by individuals with existing right-wing ideologies.
+
+-   **Biased Representation of Politicians in Google and Wikipedia Search** (2021) *Political Communication* \| [Journal](https://www.tandfonline.com/doi/abs/10.1080/10584609.2020.1793846) \> Using a novel computational measure for detecting gender bias, this study demonstrates that search algorithms do not treat all candidates equally---revealing significant gender biases particularly among conservative politicians.
+
+### II. Toxicity & Content Moderation
+
+**Do citizens actually want a "sanitized" internet?**
+
+-   **Toxic Speech and Limited Demand for Content Moderation on Social Media** (2024) *American Political Science Review* \| [Journal](https://www.cambridge.org/core/journals/american-political-science-review/article/toxic-speech-and-limited-demand-for-content-moderation-on-social-media/405333D7072585903E81BEF1729378F8) \| [PDF](Pradel_et_al_2024_toxic-speech.pdf) \> Challenging the assumption that users desire strict moderation, this study reveals that citizens largely tolerate uncivil and intolerant speech. Demands for removal are context-dependent and generally reserved only for severe physical threats.
+
+### III. Disinformation & Conspiracy Beliefs
+
+**What drives susceptibility to conspiracy narratives?**
+
+-   **Justifying an Invasion: When Is Disinformation Successful?** (2024) *Political Communication* \| [Journal](https://www.tandfonline.com/doi/full/10.1080/10584609.2024.2352483) \| [PDF](Zilinsky_Theocharis_Pradel_et_al_Justifying%20an%20Invasion.pdf) \> Analyzing data from 19 countries regarding the Ukraine invasion, this study finds that a user's pre-existing "conspiracy mindset" is a stronger predictor of believing hostile disinformation than their actual media diet.
+
+-   **Beliefs in Conspiracy Theories and Online News Consumption** (2024) *Journal of Quantitative Description: Digital Media* \| [Journal](https://journalqd.org/article/view/3318) \| [PDF](Jin_Zilinksy_Pradel_Theocharis_Conspiracy_Theories_COVID.pdf) \> A comparative mapping of conspiracy beliefs across 17 democracies. Results show that national information environments play a crucial moderating role in the relationship between social media use and conspiracy beliefs.
+
+------------------------------------------------------------------------
+
+## Grants & Awards
+
+My research has been supported by competitive funding and recognized by international awards.
+
+### Secured Funding
+
+-   **TUM Think Tank / HfP Seed Funding** (2026) *Principal Investigator* \| "AI-driven Empowerment in Political Discussions" (Pilot for ERC Grant).
+-   **Re-Boot Social Media Lab** (2022-2023) *Co-Principal Investigator* \| "Platforms for the People" (€35k).
+
+### Research Honors
+
+-   **Finalist: WWTF Young Research Group** (2024) Selected for the final round of the Vienna Science and Technology Fund call (approx. €1.6M volume), confirming the high quality of the research proposal.
+-   **Best Paper Award** (2019) *ACM Web Science Conference*
