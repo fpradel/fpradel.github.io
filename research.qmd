@@ -10,7 +10,7 @@ My research agenda examines the intersection of digital technology and democrati
 
 **Do search and recommendation algorithms amplify structural discrimination?**
 
--   **Influence of Hate Speech About Refugees in Search Algorithms on Political Attitudes** (2024) *New Media & Society* \| [Journal](https://journals.sagepub.com/doi/full/10.1177/14614448241244735) \| [PDF](Pradel_2024_Influence-of-hate-speech-about-refugees.pdf) \> This paper provides causal evidence that search engine autocompletions can amplify hostility toward refugees. Crucially, it identifies a "polarization effect": the negative impact is driven almost entirely by individuals with existing right-wing ideologies.
+-   **Influence of Hate Speech About Refugees in Search Algorithms on Political Attitudes** (2024) *New Media & Society* \| [Journal](https://journals.sagepub.com/doi/full/10.1177/14614448241244735) \| [PDF](Pradel_2024_Influence-of-hate-speech-about-refugees.pdf) \> This article provides causal evidence that exposure to hate speech in search engines increases hostility toward refugees---not among moderates, but specifically among individuals with an extreme right-wing ideology. Crucially, those with right-wing ideologies tend to trust hate speech about refugees more than those with a left-wing ideology. According to the study, these individuals are also more likely to self-select into such hateful content, which may lead to a reinforcement of hostile attitudes in the long run.
 
 -   **Biased Representation of Politicians in Google and Wikipedia Search** (2021) *Political Communication* \| [Journal](https://www.tandfonline.com/doi/abs/10.1080/10584609.2020.1793846) \> Using a novel computational measure for detecting gender bias, this study demonstrates that search algorithms do not treat all candidates equally---revealing significant gender biases particularly among conservative politicians.
 
@@ -18,7 +18,7 @@ My research agenda examines the intersection of digital technology and democrati
 
 **Do citizens actually want a "sanitized" internet?**
 
--   **Toxic Speech and Limited Demand for Content Moderation on Social Media** (2024) *American Political Science Review* \| [Journal](https://www.cambridge.org/core/journals/american-political-science-review/article/toxic-speech-and-limited-demand-for-content-moderation-on-social-media/405333D7072585903E81BEF1729378F8) \| [PDF](Pradel_et_al_2024_toxic-speech.pdf) \> Challenging the assumption that users desire strict moderation, this study reveals that citizens largely tolerate uncivil and intolerant speech. Demands for removal are context-dependent and generally reserved only for severe physical threats.
+-   **Toxic Speech and Limited Demand for Content Moderation on Social Media** (2024) *American Political Science Review* \| [Journal](https://www.cambridge.org/core/journals/american-political-science-review/article/toxic-speech-and-limited-demand-for-content-moderation-on-social-media/405333D7072585903E81BEF1729378F8) \| [PDF](Pradel_et_al_2024_toxic-speech.pdf) \> The study challenges the assumption that users universally desire stricter content moderation. Results from five experiments show that citizens largely tolerate toxic speech and only demand moderation for severe forms of toxicity (e.g., violent threats). However, these demands are context-dependent: users significantly differentiate their tolerance levels based on the specific target that is attacked. Furthermore, the study conceptualizes "uncivil," "intolerant," and "threatening" language, demonstrating that while users perceive these as distinct types of toxicity, they react similarly to uncivil and intolerant content---reserving demands for strict removal only for physical threats.
 
 ### III. Disinformation & Conspiracy Beliefs
 
@@ -36,7 +36,7 @@ My research has been supported by competitive funding and recognized by internat
 
 ### Secured Funding
 
--   **TUM Think Tank / HfP Seed Funding** (2026) *Principal Investigator* \| "AI-driven Empowerment in Political Discussions" (Pilot for ERC Grant).
+-   **TUM Think Tank / HfP Seed Funding** (2026) *Principal Investigator* \| "AI-driven Empowerment in Political Discussions" (Pilot for ERC Grant application).
 -   **Re-Boot Social Media Lab** (2022-2023) *Co-Principal Investigator* \| "Platforms for the People" (€35k).
 
 ### Research Honors

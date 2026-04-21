@@ -4,31 +4,31 @@ title: "Teaching"
 
 My teaching philosophy is grounded in the belief that **methodological competence is a crucial asset for political communication research as well as for navigating today's data-driven information environment**. I aim to equip students with the "dual profile" needed for the digital age: a deep understanding of political challenges and the technical skills (R, CSS, Experiments) to investigate them.
 
-
-
 ## Course Portfolio
 
-### Methods & Data Science
-* **Experimental Methods in Political Science** (TUM, 2022-2023)
-    * *Content:* Causal inference, survey experiment design, and analysis in R.
-* **Data Science with R** (Workshop)
-    * *Content:* Web scraping, API access, and dictionary-based analysis.
-
 ### Substantive Political Science
-* **Digital Media, Politics, and Gender** (TUM, 2021-2026)
-    * *Content:* Analyzing online political communication, gender bias in algorithms, and hate speech.
-* **Online Content Moderation and Free Speech** (TUM, 2023)
-    * *Content:* The governance of digital platforms and the tension between free speech and harm.
+
+-   **Digital Media, Politics, and Gender** (Two interconnected seminars, TUM, 2021-2026) \| [Syllabus](Syllabus_Pradel_digital_Media_Politics_Gender.pdf)
+    -   *Content - Seminar 1:* Literature Focus: Empirical insights into digital media, politics and gender.
+    -   *Content - Seminar 2:* Hands-On: Analyzing online political communication, gender bias in algorithms, and toxicity.
+-   **Online Content Moderation and Free Speech** (TUM, 2023)
+    -   *Content:* The governance of digital platforms and the tension between free speech and harm.
+
+### Methods & Data Science
+
+-   **Experimental Methods in Political Science** (TUM, 2022-2023)
+    -   *Content:* Causal inference, survey experiment design, and analysis in R.
+-   **Data Science with R** (Workshop)
+    -   *Content:* Web scraping, API access, and dictionary-based analysis.
 
 ## Mentorship & Outreach
 
 ### Hack Your Future
+
 One of my core commitments is closing the gender gap in Computational Social Science.
 
-I am the co-founder and organizer of **"Hack Your Future,"** a specialized Data Science Summer School for female students at the University of Cologne.
-* **Goal:** Empowering women to enter data science fields.
-* **Impact:** Provided hands-on training in R to female students.
-* **Funding:** Secured competitive internal funding (~€15,000) to support the program.
+I was the co-founder and organizer of **"Hack Your Future,"** a specialized Data Science Summer School for female students at the University of Cologne. \* **Goal:** Empowering women to enter data science fields. \* **Impact:** Provided hands-on training in R to female students. \* **Funding:** Secured competitive internal funding (\~€15,000) to support the program.
 
 ### Educational Resources
-* **SAGE Research Methods:** I was invited to produce an instructional video case study on *"Experimental Research on Hate Speech."* 
+
+-   **SAGE Research Methods:** I was invited to produce an instructional video case study on *"Experimental Research on Hate Speech."*
